@@ -1,2 +1,1 @@
-# git-example
-research about GIT. some example or any thing will be
+# Tim hieu GIT co ban 
